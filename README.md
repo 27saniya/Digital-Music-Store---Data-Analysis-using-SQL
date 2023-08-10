@@ -10,7 +10,7 @@ The schema of the Chinook Database is as shown below:
 <img width="652" alt="001" src="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/assets/101293878/f12663ae-ed03-4a7c-996f-6a8c12ad9f4a">
 <br>
 
-There are 11 tables in the chinook sample database.
+## There are 11 tables in the chinook sample database.
 
 - employees table stores employees data such as employee id, last name, first name, etc. It also has a field named ReportsTo to specify who reports to whom.
 - customers table stores customers data.
@@ -23,7 +23,7 @@ There are 11 tables in the chinook sample database.
 - playlists & playlist_track tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each - track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.
 
 
-Setting up the Database:
+## Setting up the Database:
 
 - Firstly, the database file is downloaded from: https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 - The database file is unzipped and stored in the folder
