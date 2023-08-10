@@ -25,7 +25,7 @@ There are 11 tables in the chinook sample database.
 
 Setting up the Database:
 
-    Firstly, the database file is downloaded from: https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
-    The database file is unzipped and stored in the folder
-    A connection is established to the Chinook SQLite database file, allowing subsequent SQL queries to be executed on it using the Jupyter notebook.
+- Firstly, the database file is downloaded from: https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
+- The database file is unzipped and stored in the folder
+- A connection is established to the Chinook SQLite database file, allowing subsequent SQL queries to be executed on it using the Jupyter notebook.
 
