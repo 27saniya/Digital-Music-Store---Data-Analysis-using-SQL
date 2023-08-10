@@ -1,4 +1,4 @@
-# Data Analysis using SQL for Digital Music Store
+# Data Analysis using SQL for a Digital Music Store
 
 The aim of this project is to analyze the Chinook Database, which encapsulates information about a music store's media, customers, employees, and invoices.
 Using SQL queries, various facets of the store's operationswill be interpreted, extracting key insights from sales patterns, customer preferences, and employee performance.
