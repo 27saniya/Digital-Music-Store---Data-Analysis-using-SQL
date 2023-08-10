@@ -8,6 +8,7 @@ The schema of the Chinook Database is as shown below:
 
 
 <img width="652" alt="001" src="https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/assets/101293878/f12663ae-ed03-4a7c-996f-6a8c12ad9f4a">
+<br>
 
 There are 11 tables in the chinook sample database.
 
