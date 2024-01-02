@@ -28,4 +28,5 @@ The schema of the Chinook Database is as shown below:
 - Firstly, the database file is downloaded from: https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 - The database file is unzipped and stored in the folder
 - A connection is established to the Chinook SQLite database file, allowing subsequent SQL queries to be executed on it using the Jupyter notebook.
-
+- The analysis can be seen here: https://github.com/27saniya/Digital-Music-Store---Data-Analysis-using-SQL/blob/main/DataAnalysis_Digital_Music_Store.ipynb
+  
